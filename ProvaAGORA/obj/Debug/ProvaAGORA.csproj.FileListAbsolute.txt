@@ -1,0 +1,14 @@
+C:\Users\2019101537\source\repos\ProvaAGORA\ProvaAGORA\bin\Debug\ProvaAGORA.exe.config
+C:\Users\2019101537\source\repos\ProvaAGORA\ProvaAGORA\bin\Debug\ProvaAGORA.exe
+C:\Users\2019101537\source\repos\ProvaAGORA\ProvaAGORA\bin\Debug\ProvaAGORA.pdb
+C:\Users\2019101537\source\repos\ProvaAGORA\ProvaAGORA\obj\Debug\ProvaAGORA.csprojAssemblyReference.cache
+C:\Users\2019101537\source\repos\ProvaAGORA\ProvaAGORA\obj\Debug\ProvaAGORA.csproj.CoreCompileInputs.cache
+C:\Users\2019101537\source\repos\ProvaAGORA\ProvaAGORA\obj\Debug\ProvaAGORA.exe
+C:\Users\2019101537\source\repos\ProvaAGORA\ProvaAGORA\obj\Debug\ProvaAGORA.pdb
+C:\Users\2019101537\Desktop\PVESPC\ProvaAGORA\bin\Debug\ProvaAGORA.exe.config
+C:\Users\2019101537\Desktop\PVESPC\ProvaAGORA\bin\Debug\ProvaAGORA.exe
+C:\Users\2019101537\Desktop\PVESPC\ProvaAGORA\bin\Debug\ProvaAGORA.pdb
+C:\Users\2019101537\Desktop\PVESPC\ProvaAGORA\obj\Debug\ProvaAGORA.csprojAssemblyReference.cache
+C:\Users\2019101537\Desktop\PVESPC\ProvaAGORA\obj\Debug\ProvaAGORA.csproj.CoreCompileInputs.cache
+C:\Users\2019101537\Desktop\PVESPC\ProvaAGORA\obj\Debug\ProvaAGORA.exe
+C:\Users\2019101537\Desktop\PVESPC\ProvaAGORA\obj\Debug\ProvaAGORA.pdb
